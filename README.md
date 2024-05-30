@@ -1,7 +1,7 @@
 
 # ALURA | A partir do zero: iniciante em programação - Formação
 
-Repositório para armazenar os projetos do curso "Lógica de programação: praticando com desafios" da Formação "A partir do zero iniciante em programação" na plataforma [ALURA](https://www.alura.com.br/).
+Repositório para armazenar os projetos do curso "Lógica de programação: praticando com desafios" da Formação "A partir do zero: iniciante em programação" na plataforma [ALURA](https://www.alura.com.br/).
 
 ## 📚 Aprendizado nesta Formação
 -	Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
