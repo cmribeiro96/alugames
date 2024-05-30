@@ -1,5 +1,5 @@
 
-# ALURA | A partir do zero iniciante em programação - Formação
+# ALURA | A partir do zero: iniciante em programação - Formação
 
 Repositório para armazenar os projetos do curso "Lógica de programação: praticando com desafios" da Formação "A partir do zero iniciante em programação" na plataforma [ALURA](https://www.alura.com.br/).
 
